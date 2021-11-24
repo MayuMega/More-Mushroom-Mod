@@ -1,4 +1,4 @@
-# More-Mushroom-Mod_1.0(増し増しキノコMOD)
+# More-Mushroom-Mod-1.0(増し増しキノコMOD)
 
 
 
